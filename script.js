@@ -100,3 +100,8 @@ function myInit() {
     convaContext.lineWidth = 2;
 }
 
+/***********************************RAJOUT***************************************/
+function redirectToCDI() {
+    
+    window.location.href = "mapCDI/cdi.html";  
+  }
