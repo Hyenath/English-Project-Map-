@@ -99,3 +99,4 @@ function myInit() {
     convaContext.strokeStyle = 'red';
     convaContext.lineWidth = 2;
 }
+
